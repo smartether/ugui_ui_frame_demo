@@ -1,0 +1,92 @@
+﻿{
+    "GUID": "15a1ae1cdc0f95c4d8ec73be9546da7d",
+    "PATH": "Assets/Art/ui/UI_Test/UI_Test.prefab",
+    "PATH2": "Assets/Editor/UIExportConfig/15a1ae1cdc0f95c4d8ec73be9546da7d.txt",
+    "ID2NodePaths": [
+        {
+            "PATH": "UI_Test"
+        },
+        {
+            "PATH": "UI_Test/Panel"
+        },
+        {
+            "PATH": "UI_Test/Panel/Image"
+        },
+        {
+            "PATH": "UI_Test/Panel/Text"
+        },
+        {
+            "PATH": "UI_Test/Panel/Button"
+        },
+        {
+            "PATH": "UI_Test/Panel/Button/Text"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "UI_Test",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "UI_Test/Panel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "UI_Test/Panel/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Image",
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "UI_Test/Panel/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text",
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "UI_Test/Panel/Button",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button",
+                    "UnityEngine.UI.Image"
+                ]
+            }
+        },
+        {
+            "NodePath": "UI_Test/Panel/Button/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        }
+    ]
+}

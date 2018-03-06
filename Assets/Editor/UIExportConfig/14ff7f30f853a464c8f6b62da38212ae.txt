@@ -1,0 +1,35 @@
+﻿{
+    "GUID": "14ff7f30f853a464c8f6b62da38212ae",
+    "PATH": "Assets/Art/ui/DlgNpcHud/DlgNpcHud.prefab",
+    "PATH2": "Assets/Editor/UIExportConfig/14ff7f30f853a464c8f6b62da38212ae.txt",
+    "ID2NodePaths": [
+        {
+            "PATH": "DlgNpcHud"
+        },
+        {
+            "PATH": "DlgNpcHud/Content"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "DlgNpcHud",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgNpcHud/Content",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        }
+    ]
+}

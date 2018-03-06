@@ -1,0 +1,358 @@
+﻿{
+    "GUID": "ec1167bc229e4684ab4541279fc2d25b",
+    "PATH": "Assets/Art/ui/DlgBag/DlgItemUse.prefab",
+    "PATH2": "Assets/Editor/UIExportConfig/ec1167bc229e4684ab4541279fc2d25b.txt",
+    "ID2NodePaths": [
+        {
+            "PATH": "DlgItemUse"
+        },
+        {
+            "PATH": "DlgItemUse/Panel"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Up_Image/button_Close"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/bg_zhuangs/button_ItemNumPlus"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/bg_zhuangs/button_ItemNumAdd"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/IconBG"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/IconBG/image_Icon"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/IconBG/image_Icon/ItemNumber"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/IconBG/text_Name"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/button_ItemUse"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/button_ItemUse/Text"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/text_Hint1"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Up_Image"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Up_Image/Text"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/IconBG/image_Icon/ItemText"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/bg_zhuangs"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/bg_zhuangs/UseCountText"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/bg_zhuangs/button_ItemNumPlus"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/bg_zhuangs/button_ItemNumPlus/Text"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/bg_zhuangs/button_ItemNumPlus/Text"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/Button_Max"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/Button_Max/Text"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/bg_zhuangs/button_ItemNumAdd"
+        },
+        {
+            "PATH": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/bg_zhuangs/button_ItemNumAdd/Text"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "DlgItemUse",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Up_Image/button_Close",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/bg_zhuangs/button_ItemNumPlus",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/bg_zhuangs/button_ItemNumPlus",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/IconBG",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Image"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/IconBG/image_Icon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Image"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/IconBG/image_Icon/ItemNumber",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/IconBG/text_Name",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/button_ItemUse",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/button_ItemUse/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/text_Hint1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Up_Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Up_Image/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/IconBG/image_Icon/ItemText",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/bg_zhuangs",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/bg_zhuangs/UseCountText",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/bg_zhuangs/button_ItemNumAdd",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/bg_zhuangs/button_ItemNumPlus/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/bg_zhuangs/button_ItemNumPlus/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/Button_Max",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/Button_Max/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgItemUse/Panel/PanelTips/Pic2_Image/pic3_image/Actions/bg_zhuangs/button_ItemNumAdd/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        }
+    ]
+}

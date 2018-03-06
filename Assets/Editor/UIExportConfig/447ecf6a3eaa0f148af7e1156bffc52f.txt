@@ -1,0 +1,87 @@
+﻿{
+    "GUID": "447ecf6a3eaa0f148af7e1156bffc52f",
+    "PATH": "Assets/Art/ui/DlgWeakMsg/DlgWeakMsg.prefab",
+    "PATH2": "Assets/Editor/UIExportConfig/447ecf6a3eaa0f148af7e1156bffc52f.txt",
+    "ID2NodePaths": [
+        {
+            "PATH": "DlgWeakMsg"
+        },
+        {
+            "PATH": "DlgWeakMsg/Panel"
+        },
+        {
+            "PATH": "DlgWeakMsg/Panel/messages"
+        },
+        {
+            "PATH": "DlgWeakMsg/Panel/messages/DlgWeakMsgItem"
+        },
+        {
+            "PATH": "DlgWeakMsg/Panel/messages/DlgWeakMsgItem/Text"
+        },
+        {
+            "PATH": "DlgWeakMsg/Panel/messages/DlgWeakMsgItem/Text/Image"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "DlgWeakMsg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgWeakMsg/Panel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgWeakMsg/Panel/messages",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgWeakMsg/Panel/messages/DlgWeakMsgItem",
+            "Config": {
+                "IsSubView": true,
+                "IsTemplate": true,
+                "TemplateName": "DlgWeakMsgItem",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgWeakMsg/Panel/messages/DlgWeakMsgItem/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgWeakMsg/Panel/messages/DlgWeakMsgItem/Text/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        }
+    ]
+}

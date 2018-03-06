@@ -1,0 +1,71 @@
+﻿{
+    "GUID": "c1bfe9cef138f3e4ea4df7cda2becaab",
+    "PATH": "Assets/Art/ui/DlgMonsterTalk/DlgMonsterTalkItem.prefab",
+    "PATH2": "Assets/Editor/UIExportConfig/c1bfe9cef138f3e4ea4df7cda2becaab.txt",
+    "ID2NodePaths": [
+        {
+            "PATH": "DlgMonsterTalkItem"
+        },
+        {
+            "PATH": "DlgMonsterTalkItem/Image"
+        },
+        {
+            "PATH": "DlgMonsterTalkItem/Image/Right"
+        },
+        {
+            "PATH": "DlgMonsterTalkItem/Image/Left"
+        },
+        {
+            "PATH": "DlgMonsterTalkItem/Image/Text"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "DlgMonsterTalkItem",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMonsterTalkItem/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMonsterTalkItem/Image/Right",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMonsterTalkItem/Image/Left",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMonsterTalkItem/Image/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        }
+    ]
+}

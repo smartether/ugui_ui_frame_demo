@@ -1,0 +1,726 @@
+﻿{
+    "GUID": "75401b6cba00b4e47aaaa9b625ff2eb0",
+    "PATH": "Assets/Art/ui/DlgMain/DlgMain.prefab",
+    "PATH2": "Assets/Editor/UIExportConfig/75401b6cba00b4e47aaaa9b625ff2eb0.txt",
+    "ID2NodePaths": [
+        {
+            "PATH": "DlgMain"
+        },
+        {
+            "PATH": "DlgMain/Panel"
+        },
+        {
+            "PATH": "DlgMain/Panel/toggle_MenuExpend"
+        },
+        {
+            "PATH": "DlgMain/Panel/toggle_MenuExpend/recttrans_NoExpend"
+        },
+        {
+            "PATH": "DlgMain/Panel/toggle_MenuExpend/recttrans_Expend"
+        },
+        {
+            "PATH": "DlgMain/Panel/toggle_MenuExpend/recttrans_MenuItemsPanel"
+        },
+        {
+            "PATH": "DlgMain/Panel/toggle_MenuExpend/recttrans_MenuItemsPanel/page_MenuItems"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_HpProgress"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_HpProgress/forcegroundmid"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_HpProgress/forcegroundTop"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_HpProgress/PanelBossHp"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_HpProgress/PanelBossHp/image_BossIcon"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_HpProgress/PanelBossHp/text_ProgressNum"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_HpProgress/PanelBossHp/text_BossName"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_HpProgress/Effect"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_HpProgress/Effect/UI_Boss_Flash"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_HpProgressMonster"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_HpProgressMonster/forcegroundmid"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_HpProgressMonster/forcegroundTop"
+        },
+        {
+            "PATH": "DlgMain/Panel/image_PickDropAni1"
+        },
+        {
+            "PATH": "DlgMain/Panel/image_PickDropAni2"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_Zhan"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_Zhan/Bg"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_Zhan/image_ZhanBarEffect"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_Zhan/recttrans_Num"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_Zhan/recttrans_Num/Num"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_Zhan/recttrans_SplitEffect"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_Zhan/recttrans_SplitEffect/EffectSub1"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_Zhan/recttrans_SplitEffect/EffectSub2"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_Zhan/recttrans_SplitEffect/E_UI_Zan"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_Zhan/recttrans_SplitEffect/E_UI_Zan/Particle System (1)"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_Zhan/recttrans_SplitEffect/E_UI_Zan/Particle System (4)"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_Zhan/recttrans_SplitEffect/E_UI_Zan/Particle System (5)"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_ScoreAndBuf"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_ScoreAndBuf/Bg"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_ScoreAndBuf/Score"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_ScoreAndBuf/BuffLab"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_ScoreAndBuf/BuffLabNum"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_HpProgress/Effect/UI_Boss_Flash"
+        },
+        {
+            "PATH": "DlgMain/tempImage"
+        },
+        {
+            "PATH": "DlgMain/tempImage/RoleIconPanel"
+        },
+        {
+            "PATH": "DlgMain/tempImage/RawImage"
+        },
+        {
+            "PATH": "DlgMain/tempImage/RawImage (1)"
+        },
+        {
+            "PATH": "DlgMain/tempImage/RawImage (2)"
+        },
+        {
+            "PATH": "DlgMain/Panel/image_PickDropAni3"
+        },
+        {
+            "PATH": "DlgMain/Panel/image_PickDropAni4"
+        },
+        {
+            "PATH": "DlgMain/Panel/image_PickDropAni5"
+        },
+        {
+            "PATH": "DlgMain/Panel/recttrans_HpProgressMonster/text_monsterName"
+        },
+        {
+            "PATH": "DlgMain/Panel/button_OpenDlgAwakenBtn"
+        },
+        {
+            "PATH": "DlgMain/Panel/ExpProgress"
+        },
+        {
+            "PATH": "DlgMain/Panel/ExpProgress/recttrans_forcegroundMask/recttrans_forceground"
+        },
+        {
+            "PATH": "DlgMain/Panel/ExpProgress/slot"
+        },
+        {
+            "PATH": "DlgMain/Panel/ExpProgress/Image"
+        },
+        {
+            "PATH": "DlgMain/Panel/ExpProgress/recttrans_forcegroundMask"
+        },
+        {
+            "PATH": "DlgMain/Panel/ExpProgress/Exp"
+        },
+        {
+            "PATH": "DlgMain/Panel/ExpProgress/recttrans_forcegroundMask/hl"
+        },
+        {
+            "PATH": "DlgMain/Panel/ExpProgress/recttrans_forcegroundMask/hl/ui_jytzz"
+        },
+        {
+            "PATH": "DlgMain/Panel/ExpProgress/recttrans_forcegroundMask/hl/ui_jytzz/sg"
+        },
+        {
+            "PATH": "DlgMain/Panel/ExpProgress/recttrans_forcegroundMask/hl/ui_jytzz/sg/ring"
+        },
+        {
+            "PATH": "DlgMain/Panel/ExpProgress/recttrans_forcegroundMask/hl/ui_jytzz/sg/star"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "DlgMain",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/toggle_MenuExpend",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/toggle_MenuExpend/recttrans_NoExpend",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/toggle_MenuExpend/recttrans_Expend",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/toggle_MenuExpend/recttrans_MenuItemsPanel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/toggle_MenuExpend/recttrans_MenuItemsPanel/page_MenuItems",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_HpProgress",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_HpProgress/forcegroundmid",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_HpProgress/forcegroundTop",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_HpProgress/PanelBossHp",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_HpProgress/PanelBossHp/image_BossIcon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_HpProgress/PanelBossHp/text_ProgressNum",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_HpProgress/PanelBossHp/text_BossName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_HpProgress/Effect",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_HpProgress/Effect/UI_Boss_Flash",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_HpProgressMonster",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_HpProgressMonster/forcegroundmid",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_HpProgressMonster/forcegroundTop",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/image_PickDropAni1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/image_PickDropAni2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_Zhan",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_Zhan/Bg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_Zhan/image_ZhanBarEffect",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_Zhan/recttrans_Num",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_Zhan/recttrans_Num/Num",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_Zhan/recttrans_SplitEffect",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_Zhan/recttrans_SplitEffect/EffectSub1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_Zhan/recttrans_SplitEffect/EffectSub2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_Zhan/recttrans_SplitEffect/E_UI_Zan",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_Zhan/recttrans_SplitEffect/E_UI_Zan/Particle System (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_Zhan/recttrans_SplitEffect/E_UI_Zan/Particle System (4)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_Zhan/recttrans_SplitEffect/E_UI_Zan/Particle System (5)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_ScoreAndBuf",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_ScoreAndBuf/Bg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_ScoreAndBuf/Score",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_ScoreAndBuf/BuffLab",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_ScoreAndBuf/BuffLabNum",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/tempImage",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/tempImage/RoleIconPanel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/tempImage/RawImage",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/tempImage/RawImage (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/tempImage/RawImage (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/image_PickDropAni3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/image_PickDropAni4",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/image_PickDropAni5",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/recttrans_HpProgressMonster/text_monsterName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/button_OpenDlgAwakenBtn",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/ExpProgress",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/ExpProgress/recttrans_forcegroundMask/recttrans_forceground",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/ExpProgress/slot",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/ExpProgress/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/ExpProgress/recttrans_forcegroundMask",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/ExpProgress/Exp",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/ExpProgress/recttrans_forcegroundMask/hl",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/ExpProgress/recttrans_forcegroundMask/hl/ui_jytzz",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/ExpProgress/recttrans_forcegroundMask/hl/ui_jytzz/sg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/ExpProgress/recttrans_forcegroundMask/hl/ui_jytzz/sg/ring",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMain/Panel/ExpProgress/recttrans_forcegroundMask/hl/ui_jytzz/sg/star",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,365 @@
+﻿{
+    "GUID": "10817c9360aef8b49bd9008039e1bba7",
+    "PATH": "Assets/Art/ui/DlgTip/DlgBagAddTip.prefab",
+    "PATH2": "Assets/Editor/UIExportConfig/10817c9360aef8b49bd9008039e1bba7.txt",
+    "ID2NodePaths": [
+        {
+            "PATH": "DlgBagAddTip"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/bg_zhuangs/Text"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/image_ItemBG"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/button_increaseBtn"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/button_increaseBtn/Text"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/button_closeTips"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/Text (1)"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageHead"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/TextTitle"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/bg_zhuangs"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/bg_zhuangs/UseCountText"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/bg_zhuangs/button_ItemNumAdd"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/bg_zhuangs/button_ItemNumAdd/Text"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/bg_zhuangs/button_ItemNumPlus"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/bg_zhuangs/button_ItemNumPlus/Text"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/image_ItemBG/image_consumeItem"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/image_ItemBG/consumeItemCount"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_1"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/AddBagSpaceDown"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/AddBagSpaceDown/Image_diamond"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/AddBagSpaceDown/Image_tishi"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/AddBagSpaceDown/Text"
+        },
+        {
+            "PATH": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/AddBagSpaceDown/Text (1)"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "DlgBagAddTip",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/bg_zhuangs/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/image_ItemBG",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Image"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/button_increaseBtn",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/button_increaseBtn/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/button_closeTips",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/Text (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageHead",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/TextTitle",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/bg_zhuangs",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/bg_zhuangs/UseCountText",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/bg_zhuangs/button_ItemNumAdd",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/bg_zhuangs/button_ItemNumAdd/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/bg_zhuangs/button_ItemNumPlus",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/bg_zhuangs/button_ItemNumPlus/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/image_ItemBG/image_consumeItem",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Image"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_2/image_ItemBG/consumeItemCount",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG_1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/ImageBG",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/AddBagSpaceDown",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/AddBagSpaceDown/Image_diamond",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/AddBagSpaceDown/Image_tishi",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/AddBagSpaceDown/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBagAddTip/Panel/recttrans_PanelTips/TemplateBagExtension/AddBagSpaceDown/Text (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        }
+    ]
+}

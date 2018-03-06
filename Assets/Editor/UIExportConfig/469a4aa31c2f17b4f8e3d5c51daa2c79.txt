@@ -1,0 +1,384 @@
+﻿{
+    "GUID": "469a4aa31c2f17b4f8e3d5c51daa2c79",
+    "PATH": "Assets/Art/ui/DlgAwaken/DlgAwaken.prefab",
+    "PATH2": "Assets/Editor/UIExportConfig/469a4aa31c2f17b4f8e3d5c51daa2c79.txt",
+    "ID2NodePaths": [
+        {
+            "PATH": "DlgAwaken"
+        },
+        {
+            "PATH": "DlgAwaken/Panel"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/Close"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/Title"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/Tabs/TabBtn1"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/Tabs/TabBtn1/Text"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/Right/ConfirmComplete"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/Right/ConfirmComplete/Text"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/Tabs/TabBtn3"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/Tabs/TabBtn3/Text"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/Tabs/TabBtn4"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/Tabs/TabBtn4/Text"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/Tabs"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/Right"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/LeftDown"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/LeftDown/RewardAttr"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/LeftUp/ProgressTask"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/LeftDown/RewardDesc"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/LeftDown/RewardSkill"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/LeftUp"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/Right/RtBoss"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/Right/ImageSoulStone"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/Tabs/TabBtn2"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/Tabs/TabBtn2/Text"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/LeftUp/TaskDesc"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/LeftUp/ProgressMonster"
+        },
+        {
+            "PATH": "DlgAwaken/Panel/TabBg/LeftUp/ProgressItem"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "DlgAwaken",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/Close",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/Title",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg",
+            "Config": {
+                "IsSubView": true,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/Tabs/TabBtn1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button",
+                    "UnityEngine.UI.Image"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/Tabs/TabBtn1/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/Right/ConfirmComplete",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button",
+                    "UnityEngine.RectTransform",
+                    "UnityEngine.UI.Image"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/Right/ConfirmComplete/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/Tabs/TabBtn3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button",
+                    "UnityEngine.UI.Image"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/Tabs/TabBtn3/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/Tabs/TabBtn4",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button",
+                    "UnityEngine.UI.Image"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/Tabs/TabBtn4/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/Tabs",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/Right",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/LeftDown",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/LeftDown/RewardAttr",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/LeftUp/ProgressTask",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/LeftDown/RewardSkill",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/LeftDown/RewardDesc",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/Right/RtBoss",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.RawImage",
+                    "Game.uGUI.Widgets.UIModel2Texture"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/LeftUp",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/Right/ImageSoulStone",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Image"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/Tabs/TabBtn2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button",
+                    "UnityEngine.UI.Image"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/Tabs/TabBtn2/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/LeftUp/ProgressMonster",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/LeftUp/ProgressItem",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgAwaken/Panel/TabBg/LeftUp/TaskDesc",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        }
+    ]
+}

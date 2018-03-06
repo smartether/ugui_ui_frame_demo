@@ -1,0 +1,151 @@
+﻿{
+    "GUID": "dc543a6b1cc85a647be16d255d09a90e",
+    "PATH": "Assets/Art/ui/DlgMessage/DlgMessage.prefab",
+    "PATH2": "Assets/Editor/UIExportConfig/dc543a6b1cc85a647be16d255d09a90e.txt",
+    "ID2NodePaths": [
+        {
+            "PATH": "DlgMessage"
+        },
+        {
+            "PATH": "DlgMessage/Panel"
+        },
+        {
+            "PATH": "DlgMessage/Panel/FrameBg"
+        },
+        {
+            "PATH": "DlgMessage/Panel/TitleBg"
+        },
+        {
+            "PATH": "DlgMessage/Panel/TextTip"
+        },
+        {
+            "PATH": "DlgMessage/Panel/TitleBg/TextTitle"
+        },
+        {
+            "PATH": "DlgMessage/Panel/ButtonCancel"
+        },
+        {
+            "PATH": "DlgMessage/Panel/ButtonCancel/Text"
+        },
+        {
+            "PATH": "DlgMessage/Panel/ButtonConfirm"
+        },
+        {
+            "PATH": "DlgMessage/Panel/ButtonConfirm/Text"
+        },
+        {
+            "PATH": "DlgMessage/Panel/TitleBg/close_btn"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "DlgMessage",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMessage/Panel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMessage/Panel/FrameBg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMessage/Panel/TitleBg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMessage/Panel/TextTip",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgMessage/Panel/TitleBg/TextTitle",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgMessage/Panel/ButtonCancel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgMessage/Panel/ButtonCancel/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMessage/Panel/ButtonConfirm",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgMessage/Panel/ButtonConfirm/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMessage/Panel/TitleBg/close_btn",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        }
+    ]
+}

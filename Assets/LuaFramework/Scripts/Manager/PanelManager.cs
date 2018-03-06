@@ -19,13 +19,13 @@ namespace LuaFramework {
         }
 
         /// <summary>
-        /// 创建面板，请求资源管理器
+        /// 鍒涘缓闈㈡澘锛岃姹傝祫婧愮鐞嗗櫒
         /// </summary>
         /// <param name="type"></param>
         public void CreatePanel(string name, LuaFunction func = null) {
             string assetName = name + "Panel";
             string abName = name.ToLower() + AppConst.ExtName;
-            if (Parent.FindChild(name) != null) return;
+            if (Parent.Find(name) != null) return;
 
 #if ASYNC_MODE
             ResManager.LoadPrefab(abName, assetName, delegate(UnityEngine.Object[] objs) {
@@ -62,12 +62,12 @@ namespace LuaFramework {
         }
 
         /// <summary>
-        /// 关闭面板
+        /// 鍏抽棴闈㈡澘
         /// </summary>
         /// <param name="name"></param>
         public void ClosePanel(string name) {
             var panelName = name + "Panel";
-            var panelObj = Parent.FindChild(panelName);
+            var panelObj = Parent.Find(panelName);
             if (panelObj == null) return;
             Destroy(panelObj.gameObject);
         }

@@ -1,0 +1,45 @@
+﻿{
+    "GUID": "12a079a247d24624aa297a746dbee9cc",
+    "PATH": "Assets/Art/ui/DlgMonsterTalk/DlgMonsterTalkItem.prefab",
+    "PATH2": "D:/resource/client/unity/Assets/Editor/UIExportConfig/12a079a247d24624aa297a746dbee9cc.txt",
+    "ID2NodePaths": [
+        {
+            "PATH": "DlgMonsterTalkItem"
+        },
+        {
+            "PATH": "DlgMonsterTalkItem/Image"
+        },
+        {
+            "PATH": "DlgMonsterTalkItem/text_Text"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "DlgMonsterTalkItem",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMonsterTalkItem/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMonsterTalkItem/text_Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        }
+    ]
+}

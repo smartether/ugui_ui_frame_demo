@@ -1,0 +1,387 @@
+﻿{
+    "InstanceID": 19664,
+    "GUID": "74c3472ceebff1f4984acb4200e803b3",
+    "PATH": "Assets/Art/ui/Mis/HudHurtNum.prefab",
+    "PATH2": "D:/Projects/AGame/resource/client/unity/Assets/Editor/UIExportConfig/74c3472ceebff1f4984acb4200e803b3.txt",
+    "ID2NodePaths": [
+        {
+            "ID": 19664,
+            "PATH": "HudHurtNum"
+        },
+        {
+            "ID": 19666,
+            "PATH": "HudHurtNum/piaoziRed"
+        },
+        {
+            "ID": 23784,
+            "PATH": "HudHurtNum/piaoziRed/Image"
+        },
+        {
+            "ID": 23788,
+            "PATH": "HudHurtNum/piaoziRed/Image (1)"
+        },
+        {
+            "ID": 23834,
+            "PATH": "HudHurtNum/piaoziRed/Image (2)"
+        },
+        {
+            "ID": 23822,
+            "PATH": "HudHurtNum/piaoziRed/Image (3)"
+        },
+        {
+            "ID": 23782,
+            "PATH": "HudHurtNum/piaoziRed/Image (4)"
+        },
+        {
+            "ID": 23830,
+            "PATH": "HudHurtNum/piaoziRed/Image (5)"
+        },
+        {
+            "ID": 19668,
+            "PATH": "HudHurtNum/piaoziYellow_normal"
+        },
+        {
+            "ID": 23820,
+            "PATH": "HudHurtNum/piaoziYellow_normal/Image (6)"
+        },
+        {
+            "ID": 23852,
+            "PATH": "HudHurtNum/piaoziYellow_normal/Image (7)"
+        },
+        {
+            "ID": 23846,
+            "PATH": "HudHurtNum/piaoziYellow_normal/Image (8)"
+        },
+        {
+            "ID": 23832,
+            "PATH": "HudHurtNum/piaoziYellow_normal/Image (9)"
+        },
+        {
+            "ID": 23850,
+            "PATH": "HudHurtNum/piaoziYellow_normal/Image (10)"
+        },
+        {
+            "ID": 23808,
+            "PATH": "HudHurtNum/piaoziYellow_normal/Image (11)"
+        },
+        {
+            "ID": 19670,
+            "PATH": "HudHurtNum/piaoziYellow_critical"
+        },
+        {
+            "ID": 23816,
+            "PATH": "HudHurtNum/piaoziYellow_critical/Image (6)"
+        },
+        {
+            "ID": 23804,
+            "PATH": "HudHurtNum/piaoziYellow_critical/Image (7)"
+        },
+        {
+            "ID": 23806,
+            "PATH": "HudHurtNum/piaoziYellow_critical/Image (8)"
+        },
+        {
+            "ID": 23828,
+            "PATH": "HudHurtNum/piaoziYellow_critical/Image (9)"
+        },
+        {
+            "ID": 23818,
+            "PATH": "HudHurtNum/piaoziYellow_critical/Image (10)"
+        },
+        {
+            "ID": 23786,
+            "PATH": "HudHurtNum/piaoziYellow_critical/Image (11)"
+        },
+        {
+            "ID": 19672,
+            "PATH": "HudHurtNum/piaoziZiSe_Dot"
+        },
+        {
+            "ID": 23824,
+            "PATH": "HudHurtNum/piaoziZiSe_Dot/Image (6)"
+        },
+        {
+            "ID": 23848,
+            "PATH": "HudHurtNum/piaoziZiSe_Dot/Image (7)"
+        },
+        {
+            "ID": 23842,
+            "PATH": "HudHurtNum/piaoziZiSe_Dot/Image (8)"
+        },
+        {
+            "ID": 23844,
+            "PATH": "HudHurtNum/piaoziZiSe_Dot/Image (9)"
+        },
+        {
+            "ID": 23826,
+            "PATH": "HudHurtNum/piaoziZiSe_Dot/Image (10)"
+        },
+        {
+            "ID": 23796,
+            "PATH": "HudHurtNum/piaoziZiSe_Dot/Image (11)"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "HudHurtNum",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziRed",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziRed/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziRed/Image (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziRed/Image (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziRed/Image (3)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziRed/Image (4)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziRed/Image (5)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziYellow_normal",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziYellow_normal/Image (6)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziYellow_normal/Image (7)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziYellow_normal/Image (8)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziYellow_normal/Image (9)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziYellow_normal/Image (10)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziYellow_normal/Image (11)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziYellow_critical",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziYellow_critical/Image (6)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziYellow_critical/Image (7)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziYellow_critical/Image (8)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziYellow_critical/Image (9)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziYellow_critical/Image (10)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziYellow_critical/Image (11)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziZiSe_Dot",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziZiSe_Dot/Image (6)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziZiSe_Dot/Image (7)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziZiSe_Dot/Image (8)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziZiSe_Dot/Image (9)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziZiSe_Dot/Image (10)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "HudHurtNum/piaoziZiSe_Dot/Image (11)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        }
+    ]
+}

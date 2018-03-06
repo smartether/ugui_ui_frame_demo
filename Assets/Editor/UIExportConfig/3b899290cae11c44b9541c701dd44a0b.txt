@@ -1,0 +1,3009 @@
+﻿{
+    "GUID": "3b899290cae11c44b9541c701dd44a0b",
+    "PATH": "Assets/Art/ui/RoleProperties/RolePanel.prefab",
+    "PATH2": "Assets/Editor/UIExportConfig/3b899290cae11c44b9541c701dd44a0b.txt",
+    "ID2NodePaths": [
+        {
+            "PATH": "RolePanel"
+        },
+        {
+            "PATH": "RolePanel/EventSystem"
+        },
+        {
+            "PATH": "RolePanel/bg"
+        },
+        {
+            "PATH": "RolePanel/TabBg"
+        },
+        {
+            "PATH": "RolePanel/TabBg/toggle_FruitToggle"
+        },
+        {
+            "PATH": "RolePanel/TabBg/toggle_FruitToggle/name"
+        },
+        {
+            "PATH": "RolePanel/TabBg/toggle_FruitToggle/tabclick"
+        },
+        {
+            "PATH": "RolePanel/TabBg/toggle_AttrToggle"
+        },
+        {
+            "PATH": "RolePanel/TabBg/toggle_AttrToggle/name"
+        },
+        {
+            "PATH": "RolePanel/TabBg/toggle_AttrToggle/tabclick"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/fruitBg"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/fruitBg/Image"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/fruitBg/Image/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/fruitBg/hasNum"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/useSlider"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/useSlider/Image (2)"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/useSlider/value"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/button_Button1"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/button_Button1/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/Image"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/Image/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/fruitBg"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/fruitBg/Image"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/fruitBg/Image/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/fruitBg/hasNum"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/useSlider"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/useSlider/Image (2)"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/useSlider/value"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/button_Button2"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/button_Button2/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/Image"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/Image/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/fruitBg"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/fruitBg/Image"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/fruitBg/Image/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/fruitBg/hasNum"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/useSlider"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/useSlider/Image (2)"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/useSlider/value"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/button_Button3"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/button_Button3/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/Image"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/Image/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/fruitBg"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/fruitBg/Image"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/fruitBg/Image/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/fruitBg/hasNum"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/useSlider"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/useSlider/Image (2)"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/useSlider/value"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/button_Button4"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/button_Button4/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/Image"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/Image/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/fruitBg"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/fruitBg/Image"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/fruitBg/Image/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/fruitBg/hasNum"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/useSlider"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/useSlider/Image (2)"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/useSlider/value"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/button_Button5"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/button_Button5/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/Image"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/Image/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBaseTitle"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecielTitle"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_attack_speed"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_attack_speed/key"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_attack_speed/text_value1"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_move_speed"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_move_speed/key"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_move_speed/text_value2"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_hit"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_hit/key"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_hit/text_value3"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_hit_deffent"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_hit_deffent/key"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_hit_deffent/text_value4"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_element_attack"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_element_attack/key"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_element_attack/text_value5"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_element_deffend"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_element_deffend/key"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_element_deffend/text_value6"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_extra_fight_power"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_extra_fight_power/key"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_extra_fight_power/text_value7"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_luck_damage"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_luck_damage/key"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_luck_damage/text_value9"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_damage_minus_value"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_damage_minus_value/key"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_damage_minus_value/text_value8"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_critical"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_critical/key"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_critical/text_value10"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/button_AttrShow"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/button_AttrShow/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_physic_attack"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_physic_attack/key"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_physic_attack/text_value20"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_physic_attack/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_physic_attack/text_value24"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_physic_deffend"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_physic_deffend/key"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_physic_deffend/text_value21"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_hp_max"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_hp_max/key"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_hp_max/text_value22"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_magic_max"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_magic_max/key"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_magic_max/text_value23"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/exp"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/exp/Image"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/exp/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/exp/expLabel"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/button_WorldLevel"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/button_WorldLevel/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/TiltleImg"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/InputName"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/InputName/Placeholder"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/InputName/Text"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/button_NameChange"
+        },
+        {
+            "PATH": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/button_NameChange/Text"
+        },
+        {
+            "PATH": "RolePanel/button_close"
+        },
+        {
+            "PATH": "RolePanel/button_close/Text"
+        },
+        {
+            "PATH": "RolePanel/title"
+        },
+        {
+            "PATH": "RolePanel/title/Text"
+        },
+        {
+            "PATH": "RolePanel/Directional light"
+        },
+        {
+            "PATH": "RolePanel/RawImage"
+        },
+        {
+            "PATH": "RolePanel/RoleBottom"
+        },
+        {
+            "PATH": "RolePanel/RoleBottom/Image"
+        },
+        {
+            "PATH": "RolePanel/RoleBottom/Image (1)"
+        },
+        {
+            "PATH": "RolePanel/RoleBottom/Image (1)/Text"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot/Bip001 L Toe0"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot/Bip001 L Toe0/BS_BL_PS"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot/Bip001 R Toe0"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot/Bip001 R Toe0/BS_BR_PS"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head/headpoint"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0/Bip001 L Finger01"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/LWeaponPoint"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/BS_EFF"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/BS_EFF/Particle System (2)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/BS_EFF/Particle System"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0/Bip001 R Finger01"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/footPoint 1"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/footPoint 1/weapon2"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/footPoint 1/BS_fP_R"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/footPoint 1/BS_fP_R/Particle System (1)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/footPoint 1/BS_fP_R/Particle System (2)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/footPoint 1/BS_fP_R/Particle System (5)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/footPoint 1/BS_fP_R/Particle System (3)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon/weaponEffect"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon/weaponEffect/Particle System"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon/weaponEffect/Particle System (1)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon/weaponEffect/Particle System (2)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon/weaponEffect/Particle System (3)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/BS_R"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/BS_R/Particle System (1)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/BS_R/Particle System (1)8832"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bodypoint"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Hurt"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002/Bone003"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002/Bone003/GameObject"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002/Bone003/GameObject/Particle System"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002/Bone003/GameObject/Particle System (1)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002/Bone003/GameObject/GameObject"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002/Bone003/GameObject/GameObject/mold_cibang_fx"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002/Bone003/GameObject/GameObject/mold_cibang_fx (1)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002/Bone003/GameObject/GameObject/Particle System (2)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002/Bone003/GameObject/GameObject/Particle System (3)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005/Bone006"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005/Bone006/GameObject (1)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005/Bone006/GameObject (1)/Particle System"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005/Bone006/GameObject (1)/Particle System (1)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005/Bone006/GameObject (1)/GameObject (1)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005/Bone006/GameObject (1)/GameObject (1)/mold_cibang_fx"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005/Bone006/GameObject (1)/GameObject (1)/mold_cibang_fx (1)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005/Bone006/GameObject (1)/GameObject (1)/Particle System (2)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005/Bone006/GameObject (1)/GameObject (1)/Particle System (3)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/default022"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/BS_PS"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/BS_PS/Particle System (1)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/BS_PS/Particle System (2)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/BS_PS/Particle System (3)"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Xtra01"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Xtra01/Bip001 Xtra0102"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Xtra02"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/Bip001 Xtra02/Bip001 Xtra0202"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Bip001/footPoint"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/SkinOrg"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/SkinOrg/mesh_bsk_000_chest"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/SkinOrg/mesh_bsk_000_feet"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/SkinOrg/mesh_bsk_000_hands"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/SkinOrg/mesh_bsk_000_head"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/SkinOrg/mesh_bsk_000_legs"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Head"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Body"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Foot"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/pointlight"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Jiantou"
+        },
+        {
+            "PATH": "RolePanel/Nanzhanshi/Cube"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "RolePanel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/EventSystem",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/bg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/toggle_FruitToggle",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/toggle_FruitToggle/name",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/toggle_FruitToggle/tabclick",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/toggle_AttrToggle",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/toggle_AttrToggle/name",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/toggle_AttrToggle/tabclick",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/fruitBg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/fruitBg/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/fruitBg/Image/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/fruitBg/hasNum",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/useSlider",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/useSlider/Image (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/useSlider/value",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/button_Button1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/button_Button1/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit1/Image/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/fruitBg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/fruitBg/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/fruitBg/Image/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/fruitBg/hasNum",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/useSlider",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/useSlider/Image (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/useSlider/value",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/button_Button2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/button_Button2/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit2/Image/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/fruitBg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/fruitBg/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/fruitBg/Image/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/fruitBg/hasNum",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/useSlider",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/useSlider/Image (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/useSlider/value",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/button_Button3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/button_Button3/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit3/Image/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/fruitBg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/fruitBg/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/fruitBg/Image/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/fruitBg/hasNum",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/useSlider",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/useSlider/Image (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/useSlider/value",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/button_Button4",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/button_Button4/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit4/Image/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/fruitBg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/fruitBg/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/fruitBg/Image/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/fruitBg/hasNum",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/useSlider",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/useSlider/Image (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/useSlider/value",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/button_Button5",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/button_Button5/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_FruitPanel/Scroll View/Viewport/Content/FruitGroup/recttrans_fruit5/Image/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBaseTitle",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecielTitle",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_attack_speed",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_attack_speed/key",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_attack_speed/text_value1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_move_speed",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_move_speed/key",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_move_speed/text_value2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_hit",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_hit/key",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_hit/text_value3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_hit_deffent",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_hit_deffent/key",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_hit_deffent/text_value4",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_element_attack",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_element_attack/key",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_element_attack/text_value5",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_element_deffend",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_element_deffend/key",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_element_deffend/text_value6",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_extra_fight_power",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_extra_fight_power/key",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_extra_fight_power/text_value7",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_luck_damage",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_luck_damage/key",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_luck_damage/text_value9",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_damage_minus_value",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_damage_minus_value/key",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_damage_minus_value/text_value8",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_critical",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_critical/key",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/recttrans_critical/text_value10",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/button_AttrShow",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrSpecie/button_AttrShow/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_physic_attack",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_physic_attack/key",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_physic_attack/text_value20",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_physic_attack/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_physic_attack/text_value24",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_physic_deffend",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_physic_deffend/key",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_physic_deffend/text_value21",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_hp_max",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_hp_max/key",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_hp_max/text_value22",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_magic_max",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_magic_max/key",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/AttrBase/recttrans_magic_max/text_value23",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/exp",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/exp/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/exp/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/exp/expLabel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/button_WorldLevel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/button_WorldLevel/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/TiltleImg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/InputName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/InputName/Placeholder",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/InputName/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/button_NameChange",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/TabBg/recttrans_InfoPanel/RoleAttrPanel/Viewport/Content/button_NameChange/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/button_close",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/button_close/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/title",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/title/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Directional light",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/RawImage",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/RoleBottom",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/RoleBottom/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/RoleBottom/Image (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/RoleBottom/Image (1)/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot/Bip001 L Toe0",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001 L Foot/Bip001 L Toe0/BS_BL_PS",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot/Bip001 R Toe0",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001 R Foot/Bip001 R Toe0/BS_BR_PS",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head/headpoint",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/Bip001 L Finger0/Bip001 L Finger01",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand/LWeaponPoint",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/BS_EFF",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/BS_EFF/Particle System (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/BS_EFF/Particle System",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Bip001 R Finger0/Bip001 R Finger01",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/footPoint 1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/footPoint 1/weapon2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/footPoint 1/BS_fP_R",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/footPoint 1/BS_fP_R/Particle System (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/footPoint 1/BS_fP_R/Particle System (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/footPoint 1/BS_fP_R/Particle System (5)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/footPoint 1/BS_fP_R/Particle System (3)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon/weaponEffect",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon/weaponEffect/Particle System",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon/weaponEffect/Particle System (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon/weaponEffect/Particle System (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon/weaponEffect/Particle System (3)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/BS_R",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/BS_R/Particle System (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/BS_R/Particle System (1)8832",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/bodypoint",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Hurt",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002/Bone003",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002/Bone003/GameObject",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002/Bone003/GameObject/Particle System",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002/Bone003/GameObject/Particle System (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002/Bone003/GameObject/GameObject",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002/Bone003/GameObject/GameObject/mold_cibang_fx",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002/Bone003/GameObject/GameObject/mold_cibang_fx (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002/Bone003/GameObject/GameObject/Particle System (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone001/Bone002/Bone003/GameObject/GameObject/Particle System (3)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005/Bone006",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005/Bone006/GameObject (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005/Bone006/GameObject (1)/Particle System",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005/Bone006/GameObject (1)/Particle System (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005/Bone006/GameObject (1)/GameObject (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005/Bone006/GameObject (1)/GameObject (1)/mold_cibang_fx",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005/Bone006/GameObject (1)/GameObject (1)/mold_cibang_fx (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005/Bone006/GameObject (1)/GameObject (1)/Particle System (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/Bone004/Bone005/Bone006/GameObject (1)/GameObject (1)/Particle System (3)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/WingPoint/chibang/default022",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/BS_PS",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/BS_PS/Particle System (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/BS_PS/Particle System (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Pelvis/Bip001 Spine/BS_PS/Particle System (3)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Xtra01",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Xtra01/Bip001 Xtra0102",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Xtra02",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/Bip001 Xtra02/Bip001 Xtra0202",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Bip001/footPoint",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/SkinOrg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/SkinOrg/mesh_bsk_000_chest",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/SkinOrg/mesh_bsk_000_feet",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/SkinOrg/mesh_bsk_000_hands",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/SkinOrg/mesh_bsk_000_head",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/SkinOrg/mesh_bsk_000_legs",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Head",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Body",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Foot",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/pointlight",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Jiantou",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "RolePanel/Nanzhanshi/Cube",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        }
+    ]
+}

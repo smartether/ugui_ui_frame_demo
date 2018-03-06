@@ -1,0 +1,2731 @@
+﻿{
+    "GUID": "874cc3d998fb3e74dba2bb8790a039ad",
+    "PATH": "Assets/Art/ui/DlgBag/DlgBag.prefab",
+    "PATH2": "Assets/Editor/UIExportConfig/874cc3d998fb3e74dba2bb8790a039ad.txt",
+    "ID2NodePaths": [
+        {
+            "PATH": "DlgBag"
+        },
+        {
+            "PATH": "DlgBag/Panel"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/ImageModel"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageCover"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBG"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBag"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBag/Background"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/button_Button"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/image_ItemIcon"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/text_itemName"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/text_count"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/recttrans_locked"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7/StarList"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7/StarList/ImageStar1"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7/StarList/ImageStar2"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7/StarList/ImageStar3"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/button_AutoSale"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/button_AutoSale/Text"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/button_AutoSortBag"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/button_AutoSortBag/Text"
+        },
+        {
+            "PATH": "DlgBag/Panel/button_closeBag"
+        },
+        {
+            "PATH": "DlgBag/Panel/moneyBgImage/text_money/Text"
+        },
+        {
+            "PATH": "DlgBag/Panel/moneyBgImage/text_money"
+        },
+        {
+            "PATH": "DlgBag/Panel/GoldBgImage/text_gold/gold_image"
+        },
+        {
+            "PATH": "DlgBag/Panel/GoldBgImage/text_gold"
+        },
+        {
+            "PATH": "DlgBag/Panel/bindBgImage/text_bind/Text (2)"
+        },
+        {
+            "PATH": "DlgBag/Panel/bindBgImage/text_bind"
+        },
+        {
+            "PATH": "DlgBag/Panel/GoldBgImage/text_gold/ButtonAddGold"
+        },
+        {
+            "PATH": "DlgBag/Panel/moneyBgImage/text_money/Image"
+        },
+        {
+            "PATH": "DlgBag/Panel/moneyBgImage/text_money/ButtonAddMoney"
+        },
+        {
+            "PATH": "DlgBag/Panel/GoldBgImage/text_gold/ButtonAddGold/Text"
+        },
+        {
+            "PATH": "DlgBag/Panel/bindBgImage/text_bind/ButtonAddBind"
+        },
+        {
+            "PATH": "DlgBag/Panel/bindBgImage/text_bind/ButtonAddBind/Text"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12/button_Button"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12/image_ItemIcon"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12/text_itemName"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12/text_count"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12/recttrans_locked"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3/button_Button"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3/image_ItemIcon"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3/text_itemName"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3/text_count"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3/recttrans_locked"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4/button_Button"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4/image_ItemIcon"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4/text_itemName"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4/text_count"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4/recttrans_locked"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5/button_Button"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5/image_ItemIcon"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5/text_itemName"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5/text_count"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5/recttrans_locked"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6/button_Button"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6/image_ItemIcon"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6/text_itemName"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6/text_count"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6/recttrans_locked"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7/button_Button"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7/image_ItemIcon"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7/text_itemName"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7/text_count"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7/recttrans_locked"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11/button_Button"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11/image_ItemIcon"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11/text_itemName"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11/text_count"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11/recttrans_locked"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1/button_Button"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1/image_ItemIcon"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1/text_itemName"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1/text_count"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1/recttrans_locked"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2/button_Button"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2/image_ItemIcon"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2/text_itemName"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2/text_count"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2/recttrans_locked"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8/button_Button"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8/image_ItemIcon"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8/text_itemName"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8/text_count"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8/recttrans_locked"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9/button_Button"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9/image_ItemIcon"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9/text_itemName"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9/text_count"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9/recttrans_locked"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10/button_Button"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10/image_ItemIcon"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10/text_itemName"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10/text_count"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10/recttrans_locked"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/Text_Name"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/Text_LV"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ImagePower"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ImagePower/ImagePowerNum"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ImagePower/ImagePowerNum/ImagePowerNum1"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/button_AutoSortStore"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/button_AutoSortStore/Text"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgBagObj"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/button_AutoSortBag"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/button_AutoSortBag/Text"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/button_Button"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/image_ItemIcon"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/text_itemName"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/text_count"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/recttrans_locked"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList/ImageStar1"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList/ImageStar2"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList/ImageStar3"
+        },
+        {
+            "PATH": "DlgBag/Panel/BagLeftTabPar"
+        },
+        {
+            "PATH": "DlgBag/Panel/moneyBgImage"
+        },
+        {
+            "PATH": "DlgBag/Panel/GoldBgImage"
+        },
+        {
+            "PATH": "DlgBag/Panel/bindBgImage"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/image_Hint"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList/ImageStar1"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList/ImageStar2"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList/ImageStar3"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12/StarList"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12/StarList/ImageStar1"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12/StarList/ImageStar2"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12/StarList/ImageStar3"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3/StarList"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3/StarList/ImageStar1"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3/StarList/ImageStar2"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3/StarList/ImageStar3"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4/StarList"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4/StarList/ImageStar1"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4/StarList/ImageStar2"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4/StarList/ImageStar3"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5/StarList"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5/StarList/ImageStar1"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5/StarList/ImageStar2"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5/StarList/ImageStar3"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6/StarList"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6/StarList/ImageStar1"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6/StarList/ImageStar2"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6/StarList/ImageStar3"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11/StarList"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11/StarList/ImageStar1"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11/StarList/ImageStar2"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11/StarList/ImageStar3"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1/StarList"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1/StarList/ImageStar1"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1/StarList/ImageStar2"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1/StarList/ImageStar3"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2/StarList"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2/StarList/ImageStar1"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2/StarList/ImageStar2"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2/StarList/ImageStar3"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8/StarList"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8/StarList/ImageStar1"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8/StarList/ImageStar2"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8/StarList/ImageStar3"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9/StarList"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9/StarList/ImageStar1"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9/StarList/ImageStar2"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9/StarList/ImageStar3"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10/StarList"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10/StarList/ImageStar1"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10/StarList/ImageStar2"
+        },
+        {
+            "PATH": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10/StarList/ImageStar3"
+        },
+        {
+            "PATH": "DlgBag/Panel/BagLeftTabPar/ToggleBag"
+        },
+        {
+            "PATH": "DlgBag/Panel/BagLeftTabPar/ToggleBag/Background"
+        },
+        {
+            "PATH": "DlgBag/Panel/BagLeftTabPar/ToggleBag/Background/Checkmark"
+        },
+        {
+            "PATH": "DlgBag/Panel/BagLeftTabPar/ToggleBag/Label"
+        },
+        {
+            "PATH": "DlgBag/Panel/BagLeftTabPar/ToggleStore"
+        },
+        {
+            "PATH": "DlgBag/Panel/BagLeftTabPar/ToggleStore/Background"
+        },
+        {
+            "PATH": "DlgBag/Panel/BagLeftTabPar/ToggleStore/Background/Checkmark"
+        },
+        {
+            "PATH": "DlgBag/Panel/BagLeftTabPar/ToggleStore/Label"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem/button_Button"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem/image_ItemIcon"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem/text_itemName"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem/text_count"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem/recttrans_locked"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList/ImageStar1"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList/ImageStar2"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList/ImageStar3"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/biankang_Image"
+        },
+        {
+            "PATH": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/biankang_Image (1)"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "DlgBag",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/ImageModel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageCover",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBG",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBag",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBag/Background",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.ScrollRect"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem",
+            "Config": {
+                "IsSubView": true,
+                "IsTemplate": true,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/button_Button",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/image_ItemIcon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/text_itemName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/text_count",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/recttrans_locked",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Image"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7/StarList",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7/StarList/ImageStar1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7/StarList/ImageStar2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7/StarList/ImageStar3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/button_AutoSale",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/button_AutoSale/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/button_AutoSortBag",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/button_AutoSortBag/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/button_closeBag",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/moneyBgImage/text_money/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/moneyBgImage/text_money",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/GoldBgImage/text_gold/gold_image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/GoldBgImage/text_gold",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/bindBgImage/text_bind/Text (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/bindBgImage/text_bind",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/GoldBgImage/text_gold/ButtonAddGold",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/moneyBgImage/text_money/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/moneyBgImage/text_money/ButtonAddMoney",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/GoldBgImage/text_gold/ButtonAddGold/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/bindBgImage/text_bind/ButtonAddBind",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/bindBgImage/text_bind/ButtonAddBind/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12",
+            "Config": {
+                "IsSubView": true,
+                "IsTemplate": true,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12/button_Button",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12/image_ItemIcon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12/text_itemName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12/text_count",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12/recttrans_locked",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3/button_Button",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3/image_ItemIcon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3/text_itemName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3/text_count",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3/recttrans_locked",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4/button_Button",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4/image_ItemIcon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4/text_itemName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4/text_count",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4/recttrans_locked",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5/button_Button",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5/image_ItemIcon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5/text_itemName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5/text_count",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5/recttrans_locked",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6/button_Button",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6/image_ItemIcon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6/text_itemName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6/text_count",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6/recttrans_locked",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7/button_Button",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7/image_ItemIcon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7/text_itemName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7/text_count",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_7/recttrans_locked",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11/button_Button",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11/image_ItemIcon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11/text_itemName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11/text_count",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11/recttrans_locked",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1/button_Button",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1/image_ItemIcon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1/text_itemName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1/text_count",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1/recttrans_locked",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2/button_Button",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2/image_ItemIcon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2/text_itemName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2/text_count",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2/recttrans_locked",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8/button_Button",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8/image_ItemIcon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8/text_itemName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8/text_count",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8/recttrans_locked",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9/button_Button",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9/image_ItemIcon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9/text_itemName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9/text_count",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9/recttrans_locked",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10/button_Button",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10/image_ItemIcon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10/text_itemName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10/text_count",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10/recttrans_locked",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/Text_Name",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/Text_LV",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ImagePower",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ImagePower/ImagePowerNum",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ImagePower/ImagePowerNum/ImagePowerNum1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj",
+            "Config": {
+                "IsSubView": true,
+                "IsTemplate": true,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/button_AutoSortStore",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/button_AutoSortStore/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.ScrollRect"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgBagObj",
+            "Config": {
+                "IsSubView": true,
+                "IsTemplate": true,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/button_AutoSortBag",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/button_AutoSortBag/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.ScrollRect"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/button_Button",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/image_ItemIcon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/text_itemName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/text_count",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/recttrans_locked",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList/ImageStar1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList/ImageStar2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgBagObj/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList/ImageStar3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/BagLeftTabPar",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/moneyBgImage",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/GoldBgImage",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/bindBgImage",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/image_Hint",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12/StarList",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12/StarList/ImageStar1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12/StarList/ImageStar2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_12/StarList/ImageStar3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3/StarList",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3/StarList/ImageStar1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3/StarList/ImageStar2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_3/StarList/ImageStar3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4/StarList",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4/StarList/ImageStar1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4/StarList/ImageStar2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_4/StarList/ImageStar3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5/StarList",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5/StarList/ImageStar1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5/StarList/ImageStar2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_5/StarList/ImageStar3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6/StarList",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6/StarList/ImageStar1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6/StarList/ImageStar2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportLeft/left_grid_Content_equip/EquipItem_6/StarList/ImageStar3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11/StarList",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11/StarList/ImageStar1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11/StarList/ImageStar2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_11/StarList/ImageStar3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1/StarList",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1/StarList/ImageStar1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1/StarList/ImageStar2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_1/StarList/ImageStar3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2/StarList",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2/StarList/ImageStar1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2/StarList/ImageStar2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_2/StarList/ImageStar3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8/StarList",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8/StarList/ImageStar1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8/StarList/ImageStar2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_8/StarList/ImageStar3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9/StarList",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9/StarList/ImageStar1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9/StarList/ImageStar2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_9/StarList/ImageStar3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10/StarList",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10/StarList/ImageStar1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10/StarList/ImageStar2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelEquip/ViewportRight/right_grid_Content_equip/EquipItem_10/StarList/ImageStar3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList/ImageStar1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList/ImageStar2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/ImageBGRole/BagEquipPanel/PanelBag/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList/ImageStar3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/BagLeftTabPar/ToggleBag",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/BagLeftTabPar/ToggleBag/Background",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/BagLeftTabPar/ToggleBag/Background/Checkmark",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/BagLeftTabPar/ToggleBag/Label",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/BagLeftTabPar/ToggleStore",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/BagLeftTabPar/ToggleStore/Background",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/BagLeftTabPar/ToggleStore/Background/Checkmark",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/BagLeftTabPar/ToggleStore/Label",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem/button_Button",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem/image_ItemIcon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem/text_itemName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem/text_count",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem/recttrans_locked",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList/ImageStar1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList/ImageStar2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/scrollRect_ScrollView/Viewport/grid_Content/BagItem/StarList/ImageStar3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/biankang_Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgBag/Panel/DlgRepo/DlgStoreObj/PanelStore/biankang_Image (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+﻿{
+    "GUID": "731835855d64d434b88572a405f873ee",
+    "PATH": "Assets/Art/ui/DlgMonsterTalk/DlgMonsterTalk.prefab",
+    "PATH2": "Assets/Editor/UIExportConfig/731835855d64d434b88572a405f873ee.txt",
+    "ID2NodePaths": [
+        {
+            "PATH": "DlgMonsterTalk"
+        },
+        {
+            "PATH": "DlgMonsterTalk/Content"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "DlgMonsterTalk",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMonsterTalk/Content",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        }
+    ]
+}

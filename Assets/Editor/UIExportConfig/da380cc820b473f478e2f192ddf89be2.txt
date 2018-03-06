@@ -1,0 +1,330 @@
+﻿{
+    "GUID": "da380cc820b473f478e2f192ddf89be2",
+    "PATH": "Assets/Art/ui/DlgTask/DlgTaskAccept.prefab",
+    "PATH2": "Assets/Editor/UIExportConfig/da380cc820b473f478e2f192ddf89be2.txt",
+    "ID2NodePaths": [
+        {
+            "PATH": "DlgTaskAccept"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/ChapterName"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/Description"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/Name"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/RewardTitle"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/Accept"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/Accept/Text"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/RewardGrid"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Close"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem/button_Button"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem/image_ItemIcon"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem/text_itemName"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem/text_count"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem/recttrans_locked"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem/StarList"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem/StarList/ImageStar1"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem/StarList/ImageStar2"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem/StarList/ImageStar3"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/ImageBG"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/RawImage"
+        },
+        {
+            "PATH": "DlgTaskAccept/Panel/Panel/NameBg"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "DlgTaskAccept",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/ChapterName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/Description",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/Name",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/RewardTitle",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/Accept",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/Accept/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/RewardGrid",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem",
+            "Config": {
+                "IsSubView": true,
+                "IsTemplate": true,
+                "TemplateName": "DlgTaskRewardItem",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Close",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem/button_Button",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem/image_ItemIcon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Image"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem/text_itemName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem/text_count",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem/recttrans_locked",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem/StarList",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem/StarList/ImageStar1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem/StarList/ImageStar2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/RewardGrid/DlgTaskRewardItem/StarList/ImageStar3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/ImageBG",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/RawImage",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTaskAccept/Panel/Panel/NameBg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        }
+    ]
+}

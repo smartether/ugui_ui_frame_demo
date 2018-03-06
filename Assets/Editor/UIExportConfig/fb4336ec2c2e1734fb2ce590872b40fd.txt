@@ -1,0 +1,837 @@
+﻿{
+    "GUID": "fb4336ec2c2e1734fb2ce590872b40fd",
+    "PATH": "Assets/Art/ui/DlgSkillCtrl/DlgSkillCtrl.prefab",
+    "PATH2": "Assets/Editor/UIExportConfig/fb4336ec2c2e1734fb2ce590872b40fd.txt",
+    "ID2NodePaths": [
+        {
+            "PATH": "DlgSkillCtrl"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot1"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot1/Image"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot2"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot2/button_ButtonSlot2"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot2/text_coolDown2"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot4/recttrans_hl4"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot5/recttrans_effect_skill_enable5"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot2/recttrans_effect_refresh_2/E_UI_ShaXing"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot2/recttrans_effect_refresh_2/E_UI_ShaXing/A_P_ShuaXing"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot2/recttrans_effect_refresh_2/E_UI_ShaXing/Particle System (2)"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot3"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot3/button_ButtonSlot3"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot3/text_coolDown3"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot3/image_coolDownMask3"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot3/recttrans_effect_refresh_3"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot3/recttrans_effect_refresh_3/E_UI_ShaXing"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot3/recttrans_effect_refresh_3/E_UI_ShaXing/A_P_ShuaXing"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot3/recttrans_effect_refresh_3/E_UI_ShaXing/Particle System (2)"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot5"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot5/button_ButtonSlot5"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot5/text_coolDown5"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot5/image_coolDownMask5"
+        },
+        {
+            "PATH": "DlgSkillCtrl/recttrans_Joystick"
+        },
+        {
+            "PATH": "DlgSkillCtrl/recttrans_Joystick/Thumb/normal"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot5/skill_bg"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot2/image_coolDownMask2"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot1/button_ButtonSlot1"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot2/recttrans_hl2"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot5/recttrans_hl5"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot3/recttrans_hl3"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot5/recttrans_effect_refresh_5"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot5/recttrans_effect_refresh_5/E_UI_ShaXing"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot5/recttrans_effect_refresh_5/E_UI_ShaXing/A_P_ShuaXing"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot5/recttrans_effect_refresh_5/E_UI_ShaXing/Particle System (2)"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot4"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot4/button_ButtonSlot4"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot4/text_coolDown4"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot4/image_coolDownMask4"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot4/recttrans_effect_refresh_4"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot4/recttrans_effect_refresh_4/E_UI_ShaXing"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot4/recttrans_effect_refresh_4/E_UI_ShaXing/A_P_ShuaXing"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot4/recttrans_effect_refresh_4/E_UI_ShaXing/Particle System (2)"
+        },
+        {
+            "PATH": "DlgSkillCtrl/recttrans_Joystick/Thumb"
+        },
+        {
+            "PATH": "DlgSkillCtrl/recttrans_Joystick/Thumb/hl"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot2/skill_bg"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot3/skill_bg"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot4/skill_bg"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/toggle_guajiswitch"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/toggle_guajiswitch/image_endguaji"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/toggle_guajiswitch/Text"
+        },
+        {
+            "PATH": "DlgSkillCtrl/recttrans_Joystick/Joystick_bg"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot5/recttrans_effect_skill_enable5/UI_skill_icon_2"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot5/recttrans_effect_skill_enable5/UI_skill_icon_2/Particle System"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot2/recttrans_effect_refresh_2"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot2/recttrans_effect_skill_enable2"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot2/recttrans_effect_skill_enable2/UI_skill_icon_2"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot2/recttrans_effect_skill_enable2/UI_skill_icon_2/Particle System"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot3/recttrans_effect_skill_enable3"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot3/recttrans_effect_skill_enable3/UI_skill_icon_2"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot3/recttrans_effect_skill_enable3/UI_skill_icon_2/Particle System"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot4/recttrans_effect_skill_enable4"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot4/recttrans_effect_skill_enable4/UI_skill_icon_2"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot4/recttrans_effect_skill_enable4/UI_skill_icon_2/Particle System"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot1/UI_skill_dj"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot1/UI_skill_dj/Particle System (2)"
+        },
+        {
+            "PATH": "DlgSkillCtrl/Panel/image_Slot1/UI_skill_dj/Particle System (3)"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "DlgSkillCtrl",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot1/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot2/button_ButtonSlot2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot2/text_coolDown2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot5/recttrans_hl5",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot5/recttrans_effect_skill_enable5",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot2/recttrans_effect_refresh_2/E_UI_ShaXing",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot2/recttrans_effect_refresh_2/E_UI_ShaXing/A_P_ShuaXing",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot2/recttrans_effect_refresh_2/E_UI_ShaXing/Particle System (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot3/button_ButtonSlot3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot3/text_coolDown3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot3/image_coolDownMask3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot3/recttrans_effect_refresh_3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot3/recttrans_effect_refresh_3/E_UI_ShaXing",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot3/recttrans_effect_refresh_3/E_UI_ShaXing/A_P_ShuaXing",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot3/recttrans_effect_refresh_3/E_UI_ShaXing/Particle System (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot5",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot5/button_ButtonSlot5",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot5/text_coolDown5",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot5/image_coolDownMask5",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/recttrans_Joystick",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/recttrans_Joystick/Thumb/normal",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot5/skill_bg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot2/image_coolDownMask2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot1/button_ButtonSlot1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot2/recttrans_hl2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot4/recttrans_hl4",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot3/recttrans_hl3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot5/recttrans_effect_refresh_5",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot5/recttrans_effect_refresh_5/E_UI_ShaXing",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot5/recttrans_effect_refresh_5/E_UI_ShaXing/A_P_ShuaXing",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot5/recttrans_effect_refresh_5/E_UI_ShaXing/Particle System (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot4",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot4/button_ButtonSlot4",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot4/text_coolDown4",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot4/image_coolDownMask4",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot4/recttrans_effect_refresh_4",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot4/recttrans_effect_refresh_4/E_UI_ShaXing",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot4/recttrans_effect_refresh_4/E_UI_ShaXing/A_P_ShuaXing",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot4/recttrans_effect_refresh_4/E_UI_ShaXing/Particle System (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/recttrans_Joystick/Thumb",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/recttrans_Joystick/Thumb/hl",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot2/skill_bg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot3/skill_bg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot4/skill_bg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/toggle_guajiswitch",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/toggle_guajiswitch/image_endguaji",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/toggle_guajiswitch/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/recttrans_Joystick/Joystick_bg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot5/recttrans_effect_skill_enable5/UI_skill_icon_2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot5/recttrans_effect_skill_enable5/UI_skill_icon_2/Particle System",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot2/recttrans_effect_refresh_2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot3/recttrans_effect_skill_enable3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot3/recttrans_effect_skill_enable3/UI_skill_icon_2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot3/recttrans_effect_skill_enable3/UI_skill_icon_2/Particle System",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot2/recttrans_effect_skill_enable2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot2/recttrans_effect_skill_enable2/UI_skill_icon_2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot2/recttrans_effect_skill_enable2/UI_skill_icon_2/Particle System",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot4/recttrans_effect_skill_enable4",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot4/recttrans_effect_skill_enable4/UI_skill_icon_2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot4/recttrans_effect_skill_enable4/UI_skill_icon_2/Particle System",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot1/UI_skill_dj",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot1/UI_skill_dj/Particle System (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgSkillCtrl/Panel/image_Slot1/UI_skill_dj/Particle System (3)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        }
+    ]
+}

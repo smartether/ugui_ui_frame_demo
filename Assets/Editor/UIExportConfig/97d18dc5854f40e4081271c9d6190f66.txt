@@ -1,0 +1,972 @@
+﻿{
+    "GUID": "97d18dc5854f40e4081271c9d6190f66",
+    "PATH": "Assets/Art/ui/DlgTip/DlgTip.prefab",
+    "PATH2": "Assets/Editor/UIExportConfig/97d18dc5854f40e4081271c9d6190f66.txt",
+    "ID2NodePaths": [
+        {
+            "PATH": "DlgTip"
+        },
+        {
+            "PATH": "DlgTip/Panel"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/BagItem"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/BagItem/button_Button"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/BagItem/image_ItemIcon"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/BagItem/text_itemName"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/BagItem/text_count"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/BagItem/recttrans_locked"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Scrollbar Vertical"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Scrollbar Vertical/Sliding Area"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Scrollbar Vertical/Sliding Area/Handle"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Btns/button_AutoSale"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Btns/button_AutoSale/Text"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Btns/button_Add"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Btns/button_Add/Text"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Btns/button_Get"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Btns/button_Get/Text"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/TextPrice"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/Text_Money"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/TextName"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/TextRole"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/TextKindLevel"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/TextPower"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/SpriteEquiped"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Btns/button_Equip"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Btns/button_Equip/Text"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Btns"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/SpriteEquiped/ZbText"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Middle_hint"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/button_Close"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/EquipDesc"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/EquipDesc/Text"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/EquipDesc/AttrElement1"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/EquipDesc/AttrElement1/Text_1"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/Text"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement1"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement1/Text_1"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement1/Text_1 (1)"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement1/Text_1 (2)"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement2"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement2/Text_1"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement2/Text_1 (1)"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement2/Text_1 (2)"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement3"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement3/Text_1"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement3/Text_1 (1)"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement3/Text_1 (2)"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement4"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement4/Text_1"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement4/Text_1 (1)"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement4/Text_1 (2)"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement2"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement2/Text_1"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement2/Text_1 (1)"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement2/Text_1 (2)"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement3"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement3/Text_1"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement3/Text_1 (1)"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement3/Text_1 (2)"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement4"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement4/Text_1"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement4/Text_1 (1)"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement4/Text_1 (2)"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/Text"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement1"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement1/Text_1"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement1/Text_1 (1)"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement1/Text_1 (2)"
+        },
+        {
+            "PATH": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "DlgTip",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Image",
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/BagItem",
+            "Config": {
+                "IsSubView": true,
+                "IsTemplate": true,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/BagItem/button_Button",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/BagItem/image_ItemIcon",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Image"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/BagItem/text_itemName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/BagItem/text_count",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/BagItem/recttrans_locked",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Image"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content",
+            "Config": {
+                "IsSubView": true,
+                "IsTemplate": true,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Scrollbar Vertical",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Scrollbar Vertical/Sliding Area",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Scrollbar Vertical/Sliding Area/Handle",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Btns/button_AutoSale",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Btns/button_AutoSale/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Btns/button_Add",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Btns/button_Add/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Btns/button_Get",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Btns/button_Get/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/TextPrice",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/Text_Money",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/TextName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/TextRole",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/TextKindLevel",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/TextPower",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/SpriteEquiped",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Image"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Btns/button_Equip",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Btns/button_Equip/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Btns",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon/SpriteEquiped/ZbText",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/Middle_hint",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/button_Close",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/EquipDesc/AttrElement1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/EquipDesc/AttrElement1/Text_1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/EquipDesc",
+            "Config": {
+                "IsSubView": true,
+                "IsTemplate": true,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/EquipDesc/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement1",
+            "Config": {
+                "IsSubView": true,
+                "IsTemplate": true,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement1/Text_1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement1/Text_1 (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement1/Text_1 (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement2/Text_1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement2/Text_1 (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement2/Text_1 (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement3/Text_1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement3/Text_1 (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement3/Text_1 (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement4",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement4/Text_1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement4/Text_1 (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/AttrElement4/Text_1 (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement2/Text_1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement2/Text_1 (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement2/Text_1 (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement3/Text_1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement3/Text_1 (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement3/Text_1 (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement4",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement4/Text_1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement4/Text_1 (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement4/Text_1 (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr",
+            "Config": {
+                "IsSubView": true,
+                "IsTemplate": true,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/BaseAttr/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr",
+            "Config": {
+                "IsSubView": true,
+                "IsTemplate": true,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement1/Text_1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement1/Text_1 (1)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/scrollRect_ScrollView/Viewport/grid_Content/RandomAttr/AttrElement1/Text_1 (2)",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgTip/Panel/PanelTip/Zhuangbei_BG/BagEquipCommon",
+            "Config": {
+                "IsSubView": true,
+                "IsTemplate": true,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        }
+    ]
+}

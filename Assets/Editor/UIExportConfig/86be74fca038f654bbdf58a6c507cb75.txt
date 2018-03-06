@@ -1,0 +1,212 @@
+﻿{
+    "GUID": "86be74fca038f654bbdf58a6c507cb75",
+    "PATH": "Assets/Art/ui/DlgRevival/DlgRevival.prefab",
+    "PATH2": "Assets/Editor/UIExportConfig/86be74fca038f654bbdf58a6c507cb75.txt",
+    "ID2NodePaths": [
+        {
+            "PATH": "DlgRevival"
+        },
+        {
+            "PATH": "DlgRevival/Bg"
+        },
+        {
+            "PATH": "DlgRevival/Bg/Title"
+        },
+        {
+            "PATH": "DlgRevival/Bg/BtnRevivalSamePos"
+        },
+        {
+            "PATH": "DlgRevival/Bg/BtnRevivalSamePos/ZhuanshiNum"
+        },
+        {
+            "PATH": "DlgRevival/Bg/Btn2"
+        },
+        {
+            "PATH": "DlgRevival/Bg/Btn2/Text"
+        },
+        {
+            "PATH": "DlgRevival/Bg/Btn3"
+        },
+        {
+            "PATH": "DlgRevival/Bg/Btn3/Text"
+        },
+        {
+            "PATH": "DlgRevival/Bg/Btn4"
+        },
+        {
+            "PATH": "DlgRevival/Bg/Btn4/Text"
+        },
+        {
+            "PATH": "DlgRevival/Bg/Btn1"
+        },
+        {
+            "PATH": "DlgRevival/Bg/Btn1/Text"
+        },
+        {
+            "PATH": "DlgRevival/Bg/BtnRevivalSafe"
+        },
+        {
+            "PATH": "DlgRevival/Bg/BtnRevivalSafe/Text"
+        },
+        {
+            "PATH": "DlgRevival/Bg/BtnRevivalSamePos/Text"
+        },
+        {
+            "PATH": "DlgRevival/Bg/BtnRevivalSamePos/Image"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "DlgRevival",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgRevival/Bg",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgRevival/Bg/Title",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgRevival/Bg/BtnRevivalSamePos",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgRevival/Bg/BtnRevivalSamePos/ZhuanshiNum",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgRevival/Bg/Btn2",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgRevival/Bg/Btn2/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgRevival/Bg/Btn3",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgRevival/Bg/Btn3/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgRevival/Bg/Btn4",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgRevival/Bg/Btn4/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgRevival/Bg/Btn1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgRevival/Bg/Btn1/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgRevival/Bg/BtnRevivalSafe",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgRevival/Bg/BtnRevivalSafe/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgRevival/Bg/BtnRevivalSamePos/Image",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+﻿{
+    "GUID": "5a14433e0954cb044bdb86655e794f87",
+    "PATH": "Assets/Art/ui/DlgMain/DlgMainMenuItem.prefab",
+    "PATH2": "Assets/Editor/UIExportConfig/5a14433e0954cb044bdb86655e794f87.txt",
+    "ID2NodePaths": [
+        {
+            "PATH": "DlgMainMenuItem"
+        },
+        {
+            "PATH": "DlgMainMenuItem/button_menu"
+        },
+        {
+            "PATH": "DlgMainMenuItem/button_menu/text_menuName"
+        },
+        {
+            "PATH": "DlgMainMenuItem/button_menu/image_title"
+        },
+        {
+            "PATH": "DlgMainMenuItem/button_menu/image_state"
+        }
+    ],
+    "NodePath2NodeConfigs": [
+        {
+            "NodePath": "DlgMainMenuItem",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        },
+        {
+            "NodePath": "DlgMainMenuItem/button_menu",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgMainMenuItem/button_menu/text_menuName",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Text"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgMainMenuItem/button_menu/image_title",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Image"
+                ]
+            }
+        },
+        {
+            "NodePath": "DlgMainMenuItem/button_menu/image_state",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
+            }
+        }
+    ]
+}
