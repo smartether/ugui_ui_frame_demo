@@ -155,6 +155,8 @@ public static class CustomSettings
         //for LuaFramework
         _GT(typeof(RectTransform)),
         _GT(typeof(Text)),
+        _GT(typeof(UnityEngine.UI.Button)),
+        _GT(typeof(UnityEngine.UI.Button.ButtonClickedEvent)),
 
         _GT(typeof(Util)),
         _GT(typeof(AppConst)),
@@ -169,7 +171,8 @@ public static class CustomSettings
         _GT(typeof(TimerManager)),
         _GT(typeof(ThreadManager)),
         _GT(typeof(NetworkManager)),
-        _GT(typeof(ResourceManager)),		  
+        _GT(typeof(ResourceManager)),		
+        _GT(typeof(LuaComponent)),
     };
 
     public static List<Type> dynamicList = new List<Type>()

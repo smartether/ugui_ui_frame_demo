@@ -33,6 +33,7 @@ public class DelegateFactory
 		dict.Add(typeof(UnityEngine.RectTransform.ReapplyDrivenProperties), factory.UnityEngine_RectTransform_ReapplyDrivenProperties);
 		dict.Add(typeof(System.Action<NotiData>), factory.System_Action_NotiData);
 		dict.Add(typeof(System.Action<UnityEngine.Object[]>), factory.System_Action_UnityEngine_Objects);
+		dict.Add(typeof(System.Action<UnityEngine.GameObject,object[]>), factory.System_Action_UnityEngine_GameObject_objects);
 
 		DelegateTraits<System.Action>.Init(factory.System_Action);
 		DelegateTraits<UnityEngine.Events.UnityAction>.Init(factory.UnityEngine_Events_UnityAction);
@@ -50,6 +51,7 @@ public class DelegateFactory
 		DelegateTraits<UnityEngine.RectTransform.ReapplyDrivenProperties>.Init(factory.UnityEngine_RectTransform_ReapplyDrivenProperties);
 		DelegateTraits<System.Action<NotiData>>.Init(factory.System_Action_NotiData);
 		DelegateTraits<System.Action<UnityEngine.Object[]>>.Init(factory.System_Action_UnityEngine_Objects);
+		DelegateTraits<System.Action<UnityEngine.GameObject,object[]>>.Init(factory.System_Action_UnityEngine_GameObject_objects);
 
 		TypeTraits<System.Action>.Init(factory.Check_System_Action);
 		TypeTraits<UnityEngine.Events.UnityAction>.Init(factory.Check_UnityEngine_Events_UnityAction);
@@ -67,6 +69,7 @@ public class DelegateFactory
 		TypeTraits<UnityEngine.RectTransform.ReapplyDrivenProperties>.Init(factory.Check_UnityEngine_RectTransform_ReapplyDrivenProperties);
 		TypeTraits<System.Action<NotiData>>.Init(factory.Check_System_Action_NotiData);
 		TypeTraits<System.Action<UnityEngine.Object[]>>.Init(factory.Check_System_Action_UnityEngine_Objects);
+		TypeTraits<System.Action<UnityEngine.GameObject,object[]>>.Init(factory.Check_System_Action_UnityEngine_GameObject_objects);
 
 		StackTraits<System.Action>.Push = factory.Push_System_Action;
 		StackTraits<UnityEngine.Events.UnityAction>.Push = factory.Push_UnityEngine_Events_UnityAction;
@@ -84,6 +87,7 @@ public class DelegateFactory
 		StackTraits<UnityEngine.RectTransform.ReapplyDrivenProperties>.Push = factory.Push_UnityEngine_RectTransform_ReapplyDrivenProperties;
 		StackTraits<System.Action<NotiData>>.Push = factory.Push_System_Action_NotiData;
 		StackTraits<System.Action<UnityEngine.Object[]>>.Push = factory.Push_System_Action_UnityEngine_Objects;
+		StackTraits<System.Action<UnityEngine.GameObject,object[]>>.Push = factory.Push_System_Action_UnityEngine_GameObject_objects;
 	}
     
     public static Delegate CreateDelegate(Type t, LuaFunction func = null)
@@ -1113,6 +1117,65 @@ public class DelegateFactory
 	}
 
 	void Push_System_Action_UnityEngine_Objects(IntPtr L, System.Action<UnityEngine.Object[]> o)
+	{
+		ToLua.Push(L, o);
+	}
+
+	class System_Action_UnityEngine_GameObject_objects_Event : LuaDelegate
+	{
+		public System_Action_UnityEngine_GameObject_objects_Event(LuaFunction func) : base(func) { }
+		public System_Action_UnityEngine_GameObject_objects_Event(LuaFunction func, LuaTable self) : base(func, self) { }
+
+		public void Call(UnityEngine.GameObject param0, object[] param1)
+		{
+			func.BeginPCall();
+			func.PushSealed(param0);
+			func.Push(param1);
+			func.PCall();
+			func.EndPCall();
+		}
+
+		public void CallWithSelf(UnityEngine.GameObject param0, object[] param1)
+		{
+			func.BeginPCall();
+			func.Push(self);
+			func.PushSealed(param0);
+			func.Push(param1);
+			func.PCall();
+			func.EndPCall();
+		}
+	}
+
+	public System.Action<UnityEngine.GameObject,object[]> System_Action_UnityEngine_GameObject_objects(LuaFunction func, LuaTable self, bool flag)
+	{
+		if (func == null)
+		{
+			System.Action<UnityEngine.GameObject,object[]> fn = delegate(UnityEngine.GameObject param0, object[] param1) { };
+			return fn;
+		}
+
+		if(!flag)
+		{
+			System_Action_UnityEngine_GameObject_objects_Event target = new System_Action_UnityEngine_GameObject_objects_Event(func);
+			System.Action<UnityEngine.GameObject,object[]> d = target.Call;
+			target.method = d.Method;
+			return d;
+		}
+		else
+		{
+			System_Action_UnityEngine_GameObject_objects_Event target = new System_Action_UnityEngine_GameObject_objects_Event(func, self);
+			System.Action<UnityEngine.GameObject,object[]> d = target.CallWithSelf;
+			target.method = d.Method;
+			return d;
+		}
+	}
+
+	bool Check_System_Action_UnityEngine_GameObject_objects(IntPtr L, int pos)
+	{
+		return TypeChecker.CheckDelegateType(typeof(System.Action<UnityEngine.GameObject,object[]>), L, pos);
+	}
+
+	void Push_System_Action_UnityEngine_GameObject_objects(IntPtr L, System.Action<UnityEngine.GameObject,object[]> o)
 	{
 		ToLua.Push(L, o);
 	}

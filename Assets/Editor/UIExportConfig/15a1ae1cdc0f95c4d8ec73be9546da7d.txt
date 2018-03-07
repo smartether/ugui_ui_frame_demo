@@ -7,19 +7,19 @@
             "PATH": "UI_Test"
         },
         {
-            "PATH": "UI_Test/Panel"
+            "PATH": "UI_Test/widget_Panel"
         },
         {
-            "PATH": "UI_Test/Panel/Image"
+            "PATH": "UI_Test/widget_Panel/Image"
         },
         {
-            "PATH": "UI_Test/Panel/Text"
+            "PATH": "UI_Test/widget_Panel/Text"
         },
         {
-            "PATH": "UI_Test/Panel/Button"
+            "PATH": "UI_Test/widget_Panel/Button"
         },
         {
-            "PATH": "UI_Test/Panel/Button/Text"
+            "PATH": "UI_Test/widget_Panel/Button/BtnName"
         }
     ],
     "NodePath2NodeConfigs": [
@@ -33,7 +33,7 @@
             }
         },
         {
-            "NodePath": "UI_Test/Panel",
+            "NodePath": "UI_Test/widget_Panel",
             "Config": {
                 "IsSubView": false,
                 "IsTemplate": false,
@@ -42,7 +42,7 @@
             }
         },
         {
-            "NodePath": "UI_Test/Panel/Image",
+            "NodePath": "UI_Test/widget_Panel/Image",
             "Config": {
                 "IsSubView": false,
                 "IsTemplate": false,
@@ -54,7 +54,7 @@
             }
         },
         {
-            "NodePath": "UI_Test/Panel/Text",
+            "NodePath": "UI_Test/widget_Panel/Text",
             "Config": {
                 "IsSubView": false,
                 "IsTemplate": false,
@@ -66,7 +66,7 @@
             }
         },
         {
-            "NodePath": "UI_Test/Panel/Button",
+            "NodePath": "UI_Test/widget_Panel/Button",
             "Config": {
                 "IsSubView": false,
                 "IsTemplate": false,
@@ -78,7 +78,7 @@
             }
         },
         {
-            "NodePath": "UI_Test/Panel/Button/Text",
+            "NodePath": "UI_Test/widget_Panel/Button/BtnName",
             "Config": {
                 "IsSubView": false,
                 "IsTemplate": false,

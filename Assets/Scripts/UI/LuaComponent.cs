@@ -848,4 +848,8 @@ public class LuaComponent : MonoBehaviour
         return tmp == null ? null : tmp.transform;
     }
     
+    public void Test()
+    {
+        UnityEngine.UI.Button btn = null; 
+    }
 }

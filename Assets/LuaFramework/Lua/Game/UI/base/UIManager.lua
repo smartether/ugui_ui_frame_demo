@@ -72,6 +72,7 @@ function UIManager.Init()
     UIManager._Root = UnityEngine.GameObject.Find('/GameManager/UIManager/RootCanvas').gameObject
     UIManager._MainCanvasGo=UnityEngine.GameObject.Find('/GameManager/UIManager/MainCanvas').gameObject 
  
+    UIManager.OpenPanel("UI_Test",'ui_test', function() end)
 end
 
 function UIManager.GetViewModel(module)
@@ -116,7 +117,7 @@ function UIManager.GetModelType(type, module)
     if(module ~= nil) then
         fullTypeName = module .. '::' .. type
     end
-    local vType = this._ViewModelTypes[fullTypeName] or this._ViewModelTypes[type] or  pcall(require,"ui/manual/" .. module.. "/" .. type) or pcall(require,"ui/" .. string.lower(module) .. "/" .. type) or 0
+    local vType = this._ViewModelTypes[fullTypeName] or this._ViewModelTypes[type] or  pcall(require,"ui/manual/" .. module.. "/" .. type) or pcall(require,"Game/UI/" .. string.lower(module) .. "/" .. type) or 0
     if(vType ~= 0) then
         vType = this._ViewModelTypes[fullTypeName] or this._ViewModelTypes[type];
     end
@@ -148,7 +149,7 @@ function UIManager.GenUIType(type, module,baseType)
     if(module ~= nil) then
         local loadSuccess, res = pcall(require, 'ui/gen/' .. module .. '/' .. type ..'_gen')
         if(not loadSuccess) then
-            xpcall(function()  require('ui/' .. string.lower(module) .. '/' .. type ..'_gen') end, 
+            xpcall(function()  require('Game/UI/' .. string.lower(module) .. '/' .. type ..'_gen') end, 
             function(err) print("## uiType " .. fullTypeName .. " generated file load failed .. \n" .. tostring(err)) end)
             -- loadSuccess, res = pcall(require, 'ui/' .. string.lower(module) .. '/' .. type ..'_gen')
         end
@@ -165,7 +166,7 @@ function UIManager.GetUIType(viewType, module)
     if(vType == nil) then
         loadSuccess, vType = pcall(require, 'ui/manual/' .. module.. '/' .. viewType)
         if(not loadSuccess) then
-            xpcall(function() require('ui/' .. string.lower(module) .. '/' .. viewType) end, 
+            xpcall(function() require('Game/UI/' .. string.lower(module) .. '/' .. viewType) end, 
             function(err) print("## uiType " .. fullTypeName .. "  file load failed .. \n" .. tostring(err)) end)
             -- loadSuccess, vType = pcall(require, 'ui/' .. string.lower(module) .. '/' .. viewType)
         end

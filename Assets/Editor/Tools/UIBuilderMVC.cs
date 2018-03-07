@@ -216,7 +216,7 @@ namespace UITools.MVC
         {
             get
             {
-                return Application.dataPath + "/Lua/ui";
+                return Application.dataPath + "/LuaFramework/Lua/Game/UI";
             }
         }
 
@@ -928,18 +928,37 @@ namespace UITools.MVC
                     }
                     statement = new string[]
                     {
+#if UNITY_2017
+                            string.IsNullOrEmpty(path)
+                            ? fieldName + " = self.m_GameObject.transform"
+                            : fieldName + " = self.m_GameObject.transform:Find('" + path + "')" +
+                              (eType.IsSubclassOf(typeof(UnityEngine.Transform))
+                                  ? string.Empty
+                                  : ":GetComponent('" + eType.FullName + "')"),
+#else
                         string.IsNullOrEmpty(path)
                             ? fieldName + " = self.m_GameObject.transform"
                             : fieldName + " = self.m_GameObject.transform:FindChild('" + path + "')" +
                               (eType.IsSubclassOf(typeof(UnityEngine.Transform))
                                   ? string.Empty
                                   : ":GetComponent('" + eType.FullName + "')"),
+# endif
                     };
                     sb.InsertStatement(false, statement);
                 }
             }
             else if (OptimizeLevel.Mid == optLv)
             {
+#if UNITY_2017 
+                statement = new string[]
+                {
+                "if self.m_"+nodeName+" == nil then",
+                "self.m_"+nodeName+" = self.m_GameObject.transform:Find('"+path+"'):GetComponent('"+eType.FullName+"')",
+                "end",
+                "return self.m_" + nodeName,
+                };
+                sb.InsertFunction(className, nodeName, statement, false);
+#else
                 statement = new string[]
                 {
                 "if self.m_"+nodeName+" == nil then",
@@ -948,6 +967,7 @@ namespace UITools.MVC
                 "return self.m_" + nodeName,
                 };
                 sb.InsertFunction(className, nodeName, statement, false);
+#endif
             }
             else if (OptimizeLevel.High <= optLv)
             {
@@ -1049,6 +1069,10 @@ namespace UITools.MVC
                         }
                     }
                     catch (System.IO.FileNotFoundException e)
+                    {
+                        UnityEditor.EditorUtility.DisplayDialog("错误", "请先安装TortoiseSVN或者TortoiseMerge，并且设置PATH环境变量！", "确定");
+                    }
+                    catch(System.Exception e)
                     {
                         UnityEditor.EditorUtility.DisplayDialog("错误", "请先安装TortoiseSVN或者TortoiseMerge，并且设置PATH环境变量！", "确定");
                     }
