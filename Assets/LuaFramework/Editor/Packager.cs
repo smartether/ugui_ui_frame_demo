@@ -51,6 +51,11 @@ public class Packager {
         BuildAssetResource(BuildTarget.StandaloneWindows);
     }
 
+    [MenuItem("LuaFramework/Build OSX Resource", false, 105)]
+    public static void BuildMacResource(){
+        BuildAssetResource(BuildTarget.StandaloneOSX);
+    }
+
     /// <summary>
     /// 生成绑定素材
     /// </summary>

@@ -95,6 +95,21 @@ namespace LuaFramework {
                 loader.AddBundle("lua/lua_controller.unity3d");
                 loader.AddBundle("lua/lua_misc.unity3d");
 
+                /** add custom lua bundle or iterate game folder */
+                loader.AddBundle("lua/lua_game_utility.unity3d");
+
+				#if UNITY_EDITOR
+				var dirs = System.IO.Directory.GetDirectories(AppConst.FrameworkRoot + "/Lua/Game/UI");
+				foreach(var dir in dirs){
+					var dirNodes = dir.Split('/');
+					string dirName = dirNodes[dirNodes.Length - 1];
+					string bundleName = "lua/lua_game_ui_"+ dirName + ".unity3d";
+					Debug.Log("$$ Add bundle" + bundleName);
+					loader.AddBundle(bundleName);
+				}
+				#else
+                
+				#endif
                 loader.AddBundle("lua/lua_protobuf.unity3d");
                 loader.AddBundle("lua/lua_3rd_cjson.unity3d");
                 loader.AddBundle("lua/lua_3rd_luabitop.unity3d");

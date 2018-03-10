@@ -3,7 +3,7 @@ local this=UIBase
 
 local ResSubscription = require("Game/ui/base/ResSubscription")
 local EventSubscription = require("Game/ui/base/EventSubscription")
-
+-- res_mgr replace with luaframework resourceManager
 --UIManager._UIBase = this
 
 -- 关闭方法 隐藏 或 销毁 {DISABLE="DISABLE", DESTORY = "DESTORY"}
@@ -11,15 +11,15 @@ this.DESTROY_METHOD = {DESTORY= 1, DISABLE = 2}
 
 this._CloseMethod = nil
 
-local qualityIconPath =
-{
-    "bg_icon_green",
-    "bg_icon_blue",
-    "bg_icon_purple",
-    "bg_icon_orange",
-    "bg_icon_red",
-    "bg_icon_golden",
-}
+-- local qualityIconPath =
+-- {
+--     "bg_icon_green",
+--     "bg_icon_blue",
+--     "bg_icon_purple",
+--     "bg_icon_orange",
+--     "bg_icon_red",
+--     "bg_icon_golden",
+-- }
 
 function UIBase:ctor()
 	-- self._viewModel = nil
