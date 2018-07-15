@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2062018947
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9995b47cb60a6f791febef911f5ab8b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lua/Game/UI/base/SubscriptionBase.lua.bytes
+- Assets/Lua/Game/UI/base/UIBase.lua.bytes
+- Assets/Lua/Game/UI/base/ResSubscription.lua.bytes
+- Assets/Lua/Game/UI/base/LoadPrefabEmit.lua.bytes
+- Assets/Lua/Game/UI/base/ViewModel_d.lua.bytes
+- Assets/Lua/Game/UI/base/EventSubscription.lua.bytes
+- Assets/Lua/Game/UI/base/ViewModel.lua.bytes
+- Assets/Lua/Game/UI/base/UIManager.lua.bytes
+- Assets/Lua/Game/UI/base/LoadEmit.lua.bytes
+Dependencies: []

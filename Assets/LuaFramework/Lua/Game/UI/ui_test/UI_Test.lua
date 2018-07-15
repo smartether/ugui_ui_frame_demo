@@ -17,14 +17,12 @@ end
 
 --  /** function PostBind */
 function UI_Test:PostBind()
-	self._text_text.text = "hello world"
+	
 end
 
 --  /** function BindEvent */
 function UI_Test:BindEvent()
-	self._button_button.onClick:AddListener(function()
-		self._text_text.text = "hello world unity!"
-	end)
+	
 end
 
 --  /** function OnDestroy */

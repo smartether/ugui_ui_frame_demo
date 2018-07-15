@@ -7,19 +7,25 @@
             "PATH": "UI_Test"
         },
         {
-            "PATH": "UI_Test/widget_Panel"
+            "PATH": "UI_Test/pic1"
         },
         {
-            "PATH": "UI_Test/widget_Panel/Image"
+            "PATH": "UI_Test/pic1/Im1424"
         },
         {
-            "PATH": "UI_Test/widget_Panel/Text"
+            "PATH": "UI_Test/pic1/lab"
         },
         {
-            "PATH": "UI_Test/widget_Panel/Button"
+            "PATH": "UI_Test/pic1/ewyweywey"
         },
         {
-            "PATH": "UI_Test/widget_Panel/Button/BtnName"
+            "PATH": "UI_Test/pic1/ewyweywey/BtnName"
+        },
+        {
+            "PATH": "UI_Test/pic1/btn1"
+        },
+        {
+            "PATH": "UI_Test/pic1/btn1/Text"
         }
     ],
     "NodePath2NodeConfigs": [
@@ -33,28 +39,30 @@
             }
         },
         {
-            "NodePath": "UI_Test/widget_Panel",
-            "Config": {
-                "IsSubView": false,
-                "IsTemplate": false,
-                "TemplateName": "",
-                "ExportTypes": []
-            }
-        },
-        {
-            "NodePath": "UI_Test/widget_Panel/Image",
+            "NodePath": "UI_Test/pic1",
             "Config": {
                 "IsSubView": false,
                 "IsTemplate": false,
                 "TemplateName": "",
                 "ExportTypes": [
-                    "UnityEngine.UI.Image",
-                    "UnityEngine.RectTransform"
+                    "UnityEngine.UI.Image"
                 ]
             }
         },
         {
-            "NodePath": "UI_Test/widget_Panel/Text",
+            "NodePath": "UI_Test/pic1/Im1424",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.RectTransform",
+                    "UnityEngine.UI.Image"
+                ]
+            }
+        },
+        {
+            "NodePath": "UI_Test/pic1/lab",
             "Config": {
                 "IsSubView": false,
                 "IsTemplate": false,
@@ -66,26 +74,48 @@
             }
         },
         {
-            "NodePath": "UI_Test/widget_Panel/Button",
+            "NodePath": "UI_Test/pic1/ewyweywey",
             "Config": {
                 "IsSubView": false,
                 "IsTemplate": false,
                 "TemplateName": "",
                 "ExportTypes": [
                     "UnityEngine.UI.Button",
-                    "UnityEngine.UI.Image"
+                    "UnityEngine.UI.Image",
+                    "UnityEngine.RectTransform"
                 ]
             }
         },
         {
-            "NodePath": "UI_Test/widget_Panel/Button/BtnName",
+            "NodePath": "UI_Test/pic1/ewyweywey/BtnName",
             "Config": {
                 "IsSubView": false,
                 "IsTemplate": false,
                 "TemplateName": "",
                 "ExportTypes": [
-                    "UnityEngine.UI.Text"
+                    "UnityEngine.UI.Text",
+                    "UnityEngine.RectTransform"
                 ]
+            }
+        },
+        {
+            "NodePath": "UI_Test/pic1/btn1",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": [
+                    "UnityEngine.UI.Button"
+                ]
+            }
+        },
+        {
+            "NodePath": "UI_Test/pic1/btn1/Text",
+            "Config": {
+                "IsSubView": false,
+                "IsTemplate": false,
+                "TemplateName": "",
+                "ExportTypes": []
             }
         }
     ]
