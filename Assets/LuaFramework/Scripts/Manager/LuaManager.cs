@@ -101,7 +101,7 @@ namespace LuaFramework {
 				#if UNITY_EDITOR
 				var dirs = System.IO.Directory.GetDirectories(AppConst.FrameworkRoot + "/Lua/Game/UI");
 				foreach(var dir in dirs){
-					var dirNodes = dir.Split('/');
+					var dirNodes = dir.Split('\\', '/');
 					string dirName = dirNodes[dirNodes.Length - 1];
 					string bundleName = "lua/lua_game_ui_"+ dirName + ".unity3d";
 					Debug.Log("$$ Add bundle" + bundleName);
